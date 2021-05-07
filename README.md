@@ -1,1 +1,3 @@
 # Duke-DISI-Project
+
+This is a group project assisting the non-profit program WomenNC to redesign their website and attract more donation and participants. Teamed with 5 other students as project innovators and leaded by Raven Luo, the project manager, I examined the structure of the original website, explored similar non-profit programs' official sites, discussed with leaders and web designer at WomenNC, and finally drafted a clearer version of website structure, and completed a visualization of it. I also drafted the content in "About us" and "Our Initiatives" tags, suggested to use color block to distinguish different topics. Moreover, I gave advice on the "Donation" page by observing other webpages that received a consent from the WomenNC leaders.
